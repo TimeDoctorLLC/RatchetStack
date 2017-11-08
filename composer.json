@@ -1,5 +1,5 @@
 {
-    "name": "gos/ratchet-stack",
+    "name": "oshanrube/ratchet-stack",
     "type": "library",
     "description": "Ratchet Stack",
     "keywords": ["Stack", "Application", "Ratchet"],
