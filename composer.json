@@ -1,5 +1,5 @@
 {
-    "name": "oshanrube/ratchet-stack",
+    "name": "td/ratchet-stack",
     "type": "library",
     "description": "Ratchet Stack",
     "keywords": ["Stack", "Application", "Ratchet"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "oshanrube/ratchet": "v0.4.1"
+        "td/ratchet": "v0.4.2"
     },
     "autoload": {
         "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
@@ -26,7 +26,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/oshanrube/Ratchet"
+            "url": "https://github.com/TimeDoctorLLC/Ratchet"
         }
     ]
 }
