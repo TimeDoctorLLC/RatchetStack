@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "gos/Ratchet": "dev-ratchetv2"
+        "gos/ratchet": "dev-ratchetv2"
     },
     "autoload": {
         "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
