@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "cboden/Ratchet": "~0.4"
+        "gos/Ratchet": "dev-ratchetv2"
     },
     "autoload": {
         "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
@@ -22,5 +22,11 @@
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/oshanrube/Ratchet"
+        }
+    ]
 }
