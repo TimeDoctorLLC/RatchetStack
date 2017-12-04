@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "td/ratchet": "^0.4.2"
+        "td/ratchet": "v0.4.6"
     },
     "autoload": {
         "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
